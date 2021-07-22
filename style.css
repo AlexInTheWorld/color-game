@@ -31,7 +31,7 @@ body {
 
 .bar-container {
     background-image: linear-gradient(red, blue);
-    border: 2px solid white;
+    border: 7% solid white;
     height: 100%;
 }
 
